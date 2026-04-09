@@ -32,3 +32,10 @@ The resulting framework provides a transparent and reproducible method for ranki
 - GeoPandas
 - NumPy
 - QGIS
+
+## Expected Outputs
+
+- Beach risk ranking
+- Identification of environmental drivers
+- Priority monitoring classification
+- Spatial visualization of risk levels
