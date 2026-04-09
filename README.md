@@ -39,3 +39,6 @@ The resulting framework provides a transparent and reproducible method for ranki
 - Identification of environmental drivers
 - Priority monitoring classification
 - Spatial visualization of risk levels
+
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/c1559c5c-efd9-475b-8b6a-a0addb0e7f99" />
+
